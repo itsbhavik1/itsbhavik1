@@ -29,6 +29,8 @@
     
 </p>
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=its_bhavik7)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
