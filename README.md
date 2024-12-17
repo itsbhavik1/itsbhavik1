@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Bhavik Vishal Sharma </h3>
     <p align="center">
