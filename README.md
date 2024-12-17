@@ -2,9 +2,7 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Bhavik Vishal Sharma </h3>
     <p align="center">
-        <a href="https://codeforces.com/profile/its_bhavik7">
-            <img src="https://github.com/its_bhavik7/cf-stats/blob/main/output/max_rating.svg#gh-dark-mode-only" />
-        </a>
+        ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
         <a href="https://www.codechef.com/users/its_bhavik7">
             <img src="https://cp-logo.vercel.app/codechef/school_swan_94?logo=true" alt="codechef max rating">
         </a>
