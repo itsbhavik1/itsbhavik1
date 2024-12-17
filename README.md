@@ -18,15 +18,8 @@
 </div>
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its_bhavik7)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Codeforces Stats -->
-<h2 align="left" height="30">Stats 📈 
-    <img src="https://komarev.com/ghpvc/?username=its_bhavik7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="its_bhavik7" align="right" /> 
-</h2>
-<p align ="center" style="display: flex;">    
-    <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=its_bhavik7&theme=github-dark-blue" alt="its_bhavik7" />    
-    <img height="300" src="https://github.com/its_bhavik7/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
-</p>
 
 <!-- Statistics -->
 <h2 align="left">Github Stats 📊</h2>
