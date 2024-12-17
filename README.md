@@ -26,7 +26,7 @@
 </h2>
 <p align ="center" style="display: flex;">
     <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=github-dark-blue" alt="bhavik" />    
-    <img height="300" src="https://github.com/itsbhavik1/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
+    <
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
