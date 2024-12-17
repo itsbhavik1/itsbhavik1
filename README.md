@@ -5,6 +5,7 @@
         <a href="https://www.codechef.com/users/its_bhavik7">
             <img src="https://cp-logo.vercel.app/codechef/school_swan_94?logo=true" alt="codechef max rating">
         </a>
+        ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
         <a href="https://atcoder.jp/users/its_bhavik7">
             <img src="https://cp-logo.vercel.app/atcoder/its_bhavik7?logo=true" alt="atcoder max rating">
         </a>
@@ -15,7 +16,7 @@
 </div>
 
 ---
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
+
 
 <!-- Codeforces Stats -->
 <h2 align="left" height="30">Stats 📈 
