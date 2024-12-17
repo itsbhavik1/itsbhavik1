@@ -24,9 +24,11 @@
 <h2 align="left" height="30">Stats 📈 
     <img src="https://komarev.com/ghpvc/?username=itsbhavik1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bhavik" align="right" /> 
 </h2>
-<p align ="center" style="display: flex;">    
+<p align ="center" style="display: flex;">
     <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=github-dark-blue" alt="bhavik" />    
     <img height="300" src="https://github.com/itsbhavik1/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[react].svg" />
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
