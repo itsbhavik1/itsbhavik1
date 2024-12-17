@@ -1,7 +1,7 @@
 ## Hi there 👋
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Bhavik Vishal Sharma </h3>
-    ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7)
     <p align="center">
         <a href="https://www.codechef.com/users/its_bhavik7">
             <img src="https://cp-logo.vercel.app/codechef/school_swan_94?logo=true" alt="codechef max rating">
@@ -14,6 +14,7 @@
         </a>
     </p>
 </div>
+
 
 ---
 
