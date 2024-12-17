@@ -9,6 +9,9 @@
         <a href="https://atcoder.jp/users/its_bhavik7">
             <img src="https://cp-logo.vercel.app/atcoder/its_bhavik7?logo=true" alt="atcoder max rating">
         </a>
+        <a href="https://atcoder.jp/users/its_bhavik7">
+            <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=its_bhavik7" alt="atcoder max rating">
+        </a>
         <a href="https://wakatime.com/@c26d3330-004c-45a6-9162-8f0c4097cb0b">
             <img src="https://wakatime.com/badge/user/c26d3330-004c-45a6-9162-8f0c4097cb0b.svg" alt="Total time coded since Aug 27 2022" />
         </a>
