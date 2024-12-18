@@ -21,13 +21,7 @@
 
 
 <!-- Codeforces Stats -->
-<h2 align="left" height="30">Stats 📈 
-    ![itsbhavik1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=vue-dark&hide_border=false)
-</h2>
-<p align ="center" style="display: flex;">
-    <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=github-dark-blue" alt="bhavik" />    
-    
-</p>
+![itsbhavik1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=vue-dark&hide_border=false)
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=its_bhavik7)
 
