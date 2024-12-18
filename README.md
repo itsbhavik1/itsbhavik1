@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
-[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbhavik1)](https://github.com/itsbhavik1/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbhavik1&bg_color=d1f1ff&color=9e4c98&line=000000&point=3e4140&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 
