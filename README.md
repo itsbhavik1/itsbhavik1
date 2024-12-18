@@ -19,7 +19,7 @@
 
 
 ---
-
+[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbhavik1)](https://github.com/itsbhavik1/github-readme-activity-graph)
 
 <!-- Codeforces Stats -->
 <h2 align="left" height="30">Stats 📈 
