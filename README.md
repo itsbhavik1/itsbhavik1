@@ -33,3 +33,10 @@
 
 
 
+
+<!-- Statistics -->
+<h2 align="left">Github Stats 📊</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavik1&layout=compact&theme=github_dark&langs_count=8" width=37.5% alt="Github Stats" align="center">
+
+
