@@ -20,7 +20,6 @@
 
 
 
-![itsbhavik1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsbhavik1&theme=vue-dark&hide_border=false)
 
 <!-- Codeforces Stats -->
 
