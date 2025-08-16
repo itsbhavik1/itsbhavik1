@@ -15,7 +15,7 @@
 </div>
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbhavik1)](https://github.com/itsbhavik1/github-readme-activity-graph)
+
 
 
 
