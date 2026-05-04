@@ -15,9 +15,6 @@
 
 
 
-<!-- Codeforces Stats -->
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=its_bhavik7)
 
 
 # 💻 Tech Stack:
